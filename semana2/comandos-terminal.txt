@@ -1,0 +1,10 @@
+Comandos utilizados: 
+1. install git 
+2. git
+3. cd
+4. mkdir
+5. nano
+6. ls
+7. git add .
+8. git commit -m "Actividad de la semana 2"
+9. git push

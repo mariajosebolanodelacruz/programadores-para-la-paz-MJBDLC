@@ -1,0 +1,3 @@
+Reflexion de la semana 2:
+Considero que es importante para un desarrollador saber usar la terminal porque permite trabajar de manera más rápida y organizada dentro de un proyecto. La terminal ayuda a navegar entre carpetas, crear archivos y administrar proyectos de forma eficiente. También facilita el uso de herramientas como Git y GitHub para guardar cambios y publicar proyectos.
+
