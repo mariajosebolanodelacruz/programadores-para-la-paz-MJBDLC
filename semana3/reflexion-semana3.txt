@@ -1,0 +1,3 @@
+Reflexion de la semana 3:
+
+Mantener un registro de cambios en los proyectos de software es importante porque permite conocer qué modificaciones se han realizado y cuándo fueron hechas. git también mejora el control y la trazabilidad de proyectos. Esto permite trabajar de forma más ordenada y segura. En proyectos con muchas personas, llevar un registro de cambios ayuda a identificar problemas con mayor facilidad.
