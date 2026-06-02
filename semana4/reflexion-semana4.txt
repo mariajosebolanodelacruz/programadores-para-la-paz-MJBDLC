@@ -1,0 +1,3 @@
+Reflexion de la semana: 
+
+Las tecnologías abiertas como Node.js permiten que las comunidades creen sus propias herramientas digitales sin depender de soluciones costosas. Esto facilita la participación ciudadana y la creación de proyectos adaptados a las necesidades locales. Además. También permite desarrollar aplicaciones web de forma rápida y eficiente.
