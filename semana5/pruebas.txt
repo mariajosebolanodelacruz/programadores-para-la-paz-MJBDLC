@@ -1,0 +1,9 @@
+Ruta /:
+Muestra el mensaje "Servidor activo", indicando que el servidor está funcionando correctamente.
+
+Ruta /saludo:
+Muestra el mensaje "Hola comunidad", enviado por la ruta de saludo.
+
+Ruta /mensaje/juan:
+Muestra el mensaje "Hola juan", utilizando el nombre recibido como parámetro en la URL.
+
