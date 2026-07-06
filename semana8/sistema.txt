@@ -1,0 +1,5 @@
+uname -a muestra información del sistema operativo, versión del kernel y arquitectura.
+
+whoami muestra el usuario que tiene la sesión iniciada.
+
+Esta información es útil para administrar un servidor porque permite conocer el sistema y verificar con qué usuario se están realizando las tareas.

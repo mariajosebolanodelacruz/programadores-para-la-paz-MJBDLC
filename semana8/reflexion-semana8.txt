@@ -1,0 +1,3 @@
+Reflexion semana 8:
+
+La seguridad digital es fundamental para proteger la información de las personas y de las organizaciones. En las plataformas comunitarias se manejan datos personales que deben mantenerse seguros. Aplicar buenas prácticas evita el robo de información y los accesos no autorizados. También ayuda a mantener la confianza de los usuarios. El uso de contraseñas seguras y sistemas actualizados reduce muchos riesgos. Además, controlar los permisos de acceso protege la información sensible. La seguridad digital es una responsabilidad de todos los usuarios y administradores. Implementar estas medidas permite que las plataformas funcionen de forma confiable, segura y eficiente.
