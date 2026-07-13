@@ -1,0 +1,3 @@
+Que es la autenticacion?
+
+El login permite identificar a un usuario antes de darle acceso a una aplicación. Algunas rutas deben estar protegidas porque contienen información que no cualquier persona debe ver o modificar. Esto ayuda a mantener la seguridad del sistema y la privacidad de la comunidad. Además, no se deben exponer contraseñas, documentos de identidad, teléfonos, direcciones, tokens ni claves de acceso. Así se evita el uso indebido de la información y se protege a los usuarios.

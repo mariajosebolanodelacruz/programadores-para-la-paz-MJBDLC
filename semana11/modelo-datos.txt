@@ -1,0 +1,25 @@
+Modelo de datos:
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- ubicacion
+- fecha
+
+Propósito de la información:
+Almacenar los reportes realizados por la comunidad para hacer seguimiento a cada caso y conocer su estado.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+
+Propósito de la información:
+Guardar la información básica de los usuarios para identificar quién participa en la plataforma y controlar los permisos de acceso.

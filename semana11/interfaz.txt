@@ -1,0 +1,3 @@
+Interfaz basica:
+
+La plataforma tendría una pantalla principal donde la comunidad pueda ver todas las causas o reportes registrados. También incluiría un formulario sencillo para crear una nueva causa con un título y una breve descripción. Cada publicación tendría un botón para apoyar la iniciativa y un contador que muestre cuántos apoyos ha recibido. Además, la información sería fácil de leer y no mostraría datos personales de los usuarios, para proteger su privacidad.
