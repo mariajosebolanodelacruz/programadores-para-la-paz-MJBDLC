@@ -1,0 +1,3 @@
+Reflexion de la semana 10:
+
+Pienso que las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten dividir las tareas por prioridades y avanzar paso a paso. Además, facilitan que el equipo pueda revisar el progreso y hacer mejoras durante el desarrollo del proyecto. La automatización también es una herramienta útil porque reduce el tiempo en tareas repetitivas, como el envío de notificaciones. Telegram puede mejorar la comunicación entre los integrantes de la comunidad y mantenerlos informados de manera rápida

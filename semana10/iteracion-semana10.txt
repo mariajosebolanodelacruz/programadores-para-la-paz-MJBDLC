@@ -1,0 +1,9 @@
+iteracion semana 10
+
+Las dos tareas que realizaría primero serían registrar una incidencia y consultar los reportes, porque son la base para que el sistema funcione y permita hacer seguimiento a la información.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó guardada y publicada en GitHub.
